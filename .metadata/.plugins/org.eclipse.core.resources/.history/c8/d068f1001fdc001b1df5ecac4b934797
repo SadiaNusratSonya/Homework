@@ -1,0 +1,33 @@
+package hw3Q3JavaBasics;
+
+public class MyAddress {//Opening of Class body
+
+	
+	   static String MyName;
+	   static int houseNumber;
+	   static String HouseArea;
+	   static char houseBlock;
+	   static String city;
+	   static String State;
+	   static int zipCode;
+	   
+	   public static void myAddress() {
+		   
+		   System.out.println("My Name is: "+MyName+", House Number is",+houseNumber+"Area is ,"+HouseArea+"Block is"+houseBlock+ ",City is" +CityArea+ );
+	   }
+	   
+			
+	
+	public static void main(String[] args) {
+		System.out.println(MyName);
+		System.out.println(houseNumber);
+		System.out.println(HouseArea);
+		System.out.println(houseBlock);
+		System.out.println(city);
+		System.out.println(State);
+		System.out.println(zipCode);
+		
+
+	}
+
+}

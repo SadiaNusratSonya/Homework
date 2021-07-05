@@ -1,0 +1,15 @@
+package hw1Q2JavaBasics;
+
+public class MyCar {
+
+	public static void main(String[] args) {
+
+		System.out.println("Name : Nissan");
+		System.out.println("Model : Rogue");
+		system.out.println("year : 2017");
+		System.out.println("Drive : 4 wheel Drive");
+		System.out.println(" Sadia + "Nusrat + "Sonya");
+		
+	}
+
+}

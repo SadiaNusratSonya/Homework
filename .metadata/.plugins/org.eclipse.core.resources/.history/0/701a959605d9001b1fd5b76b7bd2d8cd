@@ -1,0 +1,22 @@
+package hw1Q2JavaBasics;
+
+import com.sun.tools.javac.resources.version;
+
+import sun.jvm.hotspot.oops.java_lang_Class;
+
+public class MyCar {
+
+	public static void main(String[] args) {
+
+		System.out.println("Name : Nissan");
+		System.out.println("Model : Rogue");
+		System.out.println("year : 2017");
+		System.out.println("Drive : 4 wheel Drive");
+		//System.out.println(" Sadia" + " Nusrat" + " Sonya");
+		System.out.println(" Sadia Nusrat Sonya");
+		java - version
+		
+		
+	}
+
+}

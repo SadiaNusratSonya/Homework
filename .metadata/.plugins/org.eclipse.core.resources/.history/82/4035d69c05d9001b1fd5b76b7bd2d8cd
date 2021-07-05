@@ -1,0 +1,31 @@
+
+package hw1Q3JavaBasics;
+
+public class MyCar {// Black Nissan Rogue 2017 4 Wheel drive //
+
+	public static void main(String[] args) {
+		System.out.println("*****using prinln() method*********");
+		System.out.println("Make: Nissan");
+		System.out.println("Model: Rogue");
+		System.out.println("Year: 2017");
+		System.out.println("Color: Black");
+				
+		System.out.println("*****using prin() method*********");
+		System.out.print(" My + "Name" + "Is" + "Sonya");
+		System.out.print("Model: Rogue, ");
+		System.out.print("Year: 2017, ");
+		System.out.print("Color: Black");
+		
+		
+		//System.out.print("Make: Nissan, ");----> This is single line comment out
+		
+		
+		/*System.out.print("Make: Nissan, "); ----> This is multiple line comment out
+		System.out.print("Model: Rogue, ");
+		System.out.print("Year: 2017, ");
+		System.out.print("Color: Black");*/
+		
+
+	}
+
+}
