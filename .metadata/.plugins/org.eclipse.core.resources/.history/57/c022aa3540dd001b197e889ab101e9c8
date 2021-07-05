@@ -6,7 +6,6 @@ public class MyCarInfo {
 		System.out.println("Model : Rogue");
 		System.out.println("Year : 2017");
 		System.out.println("Drive : \t4 Wheel Drive"); 
-		System.out.println("WE RE PUSHING AGAIN "); 
 	}
 
 }
